@@ -50,6 +50,8 @@ cnt =0.0753 + 0.5499 * temp + 0.2331 * yr + 0.1318 * winter + 0.0972 * September
 - Seaborn 
 - MatplotLib 
 - Missingno
+- scikit-learn
+- statsmodel
 
 ## Acknowledgements
 
